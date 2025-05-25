@@ -1,6 +1,8 @@
 # Concessive-constructions-in-the-Urmi-Neo-Aramaic-variety
 A repository for data that is connected with the coursework "Concessive constructions in the Urmi Neo-Aramaic variety"
 
+Код_обработка_данных.ipynb - файл с кодом для обработки данных элицитации (см. файл ниже)
+
 Элицитация и глоссы.xlsx - файл с:
 
 1. Предложениями для элицитации и их классификацией (отмечено на всех листах)
